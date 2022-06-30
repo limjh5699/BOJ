@@ -1,0 +1,16 @@
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.exe
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.deps.json
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.runtimeconfig.json
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.runtimeconfig.dev.json
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\bin\Debug\net5.0\1152 - Number of Word.pdb
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.csproj.AssemblyReference.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.AssemblyInfoInputs.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.AssemblyInfo.cs
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.csproj.CoreCompileInputs.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\refint\1152 - Number of Word.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.pdb
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\1152 - Number of Word.genruntimeconfig.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1152 - Number of Word\obj\Debug\net5.0\ref\1152 - Number of Word.dll
