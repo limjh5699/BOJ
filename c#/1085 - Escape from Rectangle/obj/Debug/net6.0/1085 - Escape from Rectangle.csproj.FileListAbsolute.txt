@@ -1,0 +1,15 @@
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\bin\Debug\net6.0\1085 - Escape from Rectangle.exe
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\bin\Debug\net6.0\1085 - Escape from Rectangle.deps.json
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\bin\Debug\net6.0\1085 - Escape from Rectangle.runtimeconfig.json
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\bin\Debug\net6.0\1085 - Escape from Rectangle.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\bin\Debug\net6.0\1085 - Escape from Rectangle.pdb
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.csproj.AssemblyReference.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.AssemblyInfoInputs.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.AssemblyInfo.cs
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\refint\1085 - Escape from Rectangle.dll
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.pdb
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\1085 - Escape from Rectangle.genruntimeconfig.cache
+C:\Users\jhs34\OneDrive\A\문서\workspace\GitHub\BOJ\C#\1085 - Escape from Rectangle\obj\Debug\net6.0\ref\1085 - Escape from Rectangle.dll
